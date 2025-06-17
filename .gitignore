@@ -1,7 +1,7 @@
-# data/data.csv
-
+# Python cache
 __pycache__/
 *.pyc
 
+# IDE folders
 .vscode/
 .idea/ 
