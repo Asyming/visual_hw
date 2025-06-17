@@ -1,0 +1,10 @@
+# Data files
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.vscode/
+.idea/ 
